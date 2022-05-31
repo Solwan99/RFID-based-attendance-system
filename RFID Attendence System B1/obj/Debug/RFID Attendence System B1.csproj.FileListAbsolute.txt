@@ -1,0 +1,57 @@
+F:\University\C# Projects\RFID Attendence System B1\RFID Attendence System B1\bin\Debug\RFID Attendence System B1.exe.config
+F:\University\C# Projects\RFID Attendence System B1\RFID Attendence System B1\bin\Debug\RFID Attendence System B1.exe
+F:\University\C# Projects\RFID Attendence System B1\RFID Attendence System B1\bin\Debug\RFID Attendence System B1.pdb
+F:\University\C# Projects\RFID Attendence System B1\RFID Attendence System B1\obj\Debug\RFID Attendence System B1.csproj.AssemblyReference.cache
+F:\University\C# Projects\RFID Attendence System B1\RFID Attendence System B1\obj\Debug\RFID_Attendence_System_B1.Form1.resources
+F:\University\C# Projects\RFID Attendence System B1\RFID Attendence System B1\obj\Debug\RFID_Attendence_System_B1.Properties.Resources.resources
+F:\University\C# Projects\RFID Attendence System B1\RFID Attendence System B1\obj\Debug\RFID Attendence System B1.csproj.GenerateResource.cache
+F:\University\C# Projects\RFID Attendence System B1\RFID Attendence System B1\obj\Debug\RFID Attendence System B1.csproj.CoreCompileInputs.cache
+F:\University\C# Projects\RFID Attendence System B1\RFID Attendence System B1\obj\Debug\RFID Attendence System B1.exe
+F:\University\C# Projects\RFID Attendence System B1\RFID Attendence System B1\obj\Debug\RFID Attendence System B1.pdb
+C:\Users\GTFO\Downloads\rfid\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\RFID Attendence System B1.exe.config
+C:\Users\GTFO\Downloads\rfid\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\RFID Attendence System B1.exe
+C:\Users\GTFO\Downloads\rfid\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\RFID Attendence System B1.pdb
+C:\Users\GTFO\Downloads\rfid\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\MySql.Data.dll
+C:\Users\GTFO\Downloads\rfid\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\Google.Protobuf.dll
+C:\Users\GTFO\Downloads\rfid\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\ZstdNet.dll
+C:\Users\GTFO\Downloads\rfid\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\GTFO\Downloads\rfid\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\GTFO\Downloads\rfid\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\GTFO\Downloads\rfid\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\System.Memory.dll
+C:\Users\GTFO\Downloads\rfid\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\System.Buffers.dll
+C:\Users\GTFO\Downloads\rfid\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\GTFO\Downloads\rfid\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\GTFO\Downloads\rfid\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\GTFO\Downloads\rfid\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\MySql.Data.xml
+C:\Users\GTFO\Downloads\rfid\RFID Attendence System B1 ver2\RFID Attendence System B1\obj\Debug\RFID Attendence System B1.csproj.AssemblyReference.cache
+C:\Users\GTFO\Downloads\rfid\RFID Attendence System B1 ver2\RFID Attendence System B1\obj\Debug\RFID Attendence System B1.exe.config
+C:\Users\GTFO\Downloads\rfid\RFID Attendence System B1 ver2\RFID Attendence System B1\obj\Debug\RFID_Attendence_System_B1.Form1.resources
+C:\Users\GTFO\Downloads\rfid\RFID Attendence System B1 ver2\RFID Attendence System B1\obj\Debug\RFID_Attendence_System_B1.Properties.Resources.resources
+C:\Users\GTFO\Downloads\rfid\RFID Attendence System B1 ver2\RFID Attendence System B1\obj\Debug\RFID Attendence System B1.csproj.GenerateResource.cache
+C:\Users\GTFO\Downloads\rfid\RFID Attendence System B1 ver2\RFID Attendence System B1\obj\Debug\RFID Attendence System B1.csproj.CoreCompileInputs.cache
+C:\Users\GTFO\Downloads\rfid\RFID Attendence System B1 ver2\RFID Attendence System B1\obj\Debug\RFID Attendence System B1.csproj.CopyComplete
+C:\Users\GTFO\Downloads\rfid\RFID Attendence System B1 ver2\RFID Attendence System B1\obj\Debug\RFID Attendence System B1.exe
+C:\Users\GTFO\Downloads\rfid\RFID Attendence System B1 ver2\RFID Attendence System B1\obj\Debug\RFID Attendence System B1.pdb
+C:\Users\solwa\Downloads\guifinal\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\RFID Attendence System B1.exe.config
+C:\Users\solwa\Downloads\guifinal\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\RFID Attendence System B1.exe
+C:\Users\solwa\Downloads\guifinal\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\RFID Attendence System B1.pdb
+C:\Users\solwa\Downloads\guifinal\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\MySql.Data.dll
+C:\Users\solwa\Downloads\guifinal\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\Google.Protobuf.dll
+C:\Users\solwa\Downloads\guifinal\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\ZstdNet.dll
+C:\Users\solwa\Downloads\guifinal\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\solwa\Downloads\guifinal\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\solwa\Downloads\guifinal\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\solwa\Downloads\guifinal\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\System.Memory.dll
+C:\Users\solwa\Downloads\guifinal\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\System.Buffers.dll
+C:\Users\solwa\Downloads\guifinal\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\solwa\Downloads\guifinal\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\solwa\Downloads\guifinal\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\solwa\Downloads\guifinal\RFID Attendence System B1 ver2\RFID Attendence System B1\bin\Debug\MySql.Data.xml
+C:\Users\solwa\Downloads\guifinal\RFID Attendence System B1 ver2\RFID Attendence System B1\obj\Debug\RFID Attendence System B1.csproj.AssemblyReference.cache
+C:\Users\solwa\Downloads\guifinal\RFID Attendence System B1 ver2\RFID Attendence System B1\obj\Debug\RFID Attendence System B1.exe.config
+C:\Users\solwa\Downloads\guifinal\RFID Attendence System B1 ver2\RFID Attendence System B1\obj\Debug\RFID_Attendence_System_B1.Form1.resources
+C:\Users\solwa\Downloads\guifinal\RFID Attendence System B1 ver2\RFID Attendence System B1\obj\Debug\RFID_Attendence_System_B1.Properties.Resources.resources
+C:\Users\solwa\Downloads\guifinal\RFID Attendence System B1 ver2\RFID Attendence System B1\obj\Debug\RFID Attendence System B1.csproj.GenerateResource.cache
+C:\Users\solwa\Downloads\guifinal\RFID Attendence System B1 ver2\RFID Attendence System B1\obj\Debug\RFID Attendence System B1.csproj.CoreCompileInputs.cache
+C:\Users\solwa\Downloads\guifinal\RFID Attendence System B1 ver2\RFID Attendence System B1\obj\Debug\RFID Attendence System B1.exe
+C:\Users\solwa\Downloads\guifinal\RFID Attendence System B1 ver2\RFID Attendence System B1\obj\Debug\RFID Attendence System B1.pdb
